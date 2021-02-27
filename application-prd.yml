@@ -1,3 +1,4 @@
-yyb:
-  name:
-    version:1
+config:
+  info:
+    prd:
+      version:1
