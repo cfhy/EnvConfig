@@ -1,4 +1,2 @@
 config:
-  info:
-    prd:
-      version:1
+  info: prdversion:1
